@@ -5,7 +5,7 @@
   "verses":[
     {
       "number":1,
-      "text":"texto#G1499 a /ser/ exibido#G1499 do verso /1/",
+      "text":"texto#G3326 a /ser/ exibido#G3327 do verso /1/",
       "ref":[
         {"a":{"book":"Jo","chapter":1,"verse":1}}
       ]

@@ -1,5 +1,6 @@
 var Module = {
   id: "bible-byz-port",
+  name: "Biblia ARA",
   type: "bible",
   books: {
     "book1": {
